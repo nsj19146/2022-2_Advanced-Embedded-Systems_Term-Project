@@ -63,10 +63,9 @@ make clean
 
 **GAME 1**   
 
-https://user-images.githubusercontent.com/96249554/208508351-be9ecb30-44b5-4455-9369-8c5078d10ac3.mp4
+https://user-images.githubusercontent.com/96249554/208511892-f71eb5a8-44f6-49e8-a56a-dac0257798a1.mp4
 
 **GAME 2**   
 
-https://user-images.githubusercontent.com/96249554/208508395-3ee80c32-41a1-4fb6-aaf7-83675b218c46.mp4
-
+https://user-images.githubusercontent.com/96249554/208512063-feb82464-d8a0-42db-8901-53d18699d127.mp4
 
