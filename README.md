@@ -41,6 +41,12 @@ gcc -o final main.o switch.o dotmatrix.o lcd.o -lwiringPi -lbcm2835
 sudo ./final
 ```
 
+
+### clean   
+```
+make clean
+```
+
 ---
 
 ## [ Result ]
